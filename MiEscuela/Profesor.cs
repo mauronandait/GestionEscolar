@@ -37,5 +37,12 @@ namespace MiEscuela
             Materia = materia;
         }
         #endregion
+        #region Constructores
+        public Profesor()
+        {
+            this.matricula = "PRF";
+            this.Activo = true;
+        }
+        #endregion
     }
 }

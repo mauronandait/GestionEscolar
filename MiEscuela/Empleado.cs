@@ -59,5 +59,16 @@ namespace MiEscuela
             //cálculo de salario
         }
         #endregion
+        #region Constructores
+        public Empleado()
+        {
+            this.id = 0;
+            this.nombre = "Sin nombre";
+            this.edad = 0;
+            this.nacionalidad = "Sin nacionalidad";
+            this.activo = true;
+            this.pago = 0.0;
+        }
+        #endregion
     }
 }

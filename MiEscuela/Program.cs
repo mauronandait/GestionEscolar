@@ -16,9 +16,11 @@
         static void Main(string[] args)
         {
             Console.Title = "Gestión Escolar";
-            Profesor nuevoProfesor = new Profesor();
-            string resp = nuevoProfesor.RevisarHora();
-            MostrarMensaje(resp);
+            Estudiante nuevoEstudiante = new Estudiante("Juan Perez", "3A");
+            nuevoEstudiante = null;
+            //Profesor nuevoProfesor = new Profesor();
+            //string resp = nuevoProfesor.RevisarHora();
+            //MostrarMensaje(resp);
             /*
             Console.WriteLine("Bienvenidos a la escuela, presione 0 para continuar");
             int x = Convert.ToInt32(Console.ReadLine());

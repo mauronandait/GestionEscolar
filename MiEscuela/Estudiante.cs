@@ -10,6 +10,16 @@ namespace MiEscuela
     {
         private string Estatus;
         #region Atributos
+        private bool estatus;
+        private string nombre;
+        #endregion
+        #region Propiedades
+        public string? status { get; private set; }
+        public string Nombre
+        {
+            get { return nombre; }
+            set { nombre = value; }
+        }
         #endregion
         #region Metodos
         public string Registrar() {
@@ -41,5 +51,18 @@ namespace MiEscuela
             return respuesta;
         }
         #endregion
+        #region Constructores
+        public Estudiante(string nombre, string gradoCurso)
+        {
+            nombre = nombre;
+            gradoCurso = gradoCurso;
+            #endregion
+
+        }
+        public Estudiante(bool estatus)
+        {
+            this.Estatus = status;
+            nombre = "Sin definir";
+        }
     }
 }
