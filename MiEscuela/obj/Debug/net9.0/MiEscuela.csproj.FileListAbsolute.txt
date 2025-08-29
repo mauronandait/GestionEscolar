@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\bin\Debug\net9.0\MiEscuela.exe
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\bin\Debug\net9.0\MiEscuela.deps.json
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\bin\Debug\net9.0\MiEscuela.runtimeconfig.json
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\bin\Debug\net9.0\MiEscuela.dll
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\bin\Debug\net9.0\MiEscuela.pdb
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.dll
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\refint\MiEscuela.dll
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.pdb
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\MiEscuela.genruntimeconfig.cache
+C:\Users\EQUIPO\Documents\MiEscuela\MiEscuela\obj\Debug\net9.0\ref\MiEscuela.dll
