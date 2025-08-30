@@ -12,10 +12,10 @@ namespace MiEscuela
         Quincenal,
         Semanal
     }
-    public class Empleado
+    public class Empleado<Tipo>
     {
         #region Atributos
-        private int id;
+        private Tipo id;
         private string nombre;
         private bool activo;
         private string nacionalidad;
@@ -24,7 +24,7 @@ namespace MiEscuela
         #endregion
 
         #region Propiedades
-        public int Id
+        public Tipo Id
         {
             get { return id; }
         }
@@ -62,7 +62,7 @@ namespace MiEscuela
         #region Constructores
         public Empleado()
         {
-            this.id = 0;
+            //this.id = 0;
             this.nombre = "Sin nombre";
             this.edad = 0;
             this.nacionalidad = "Sin nacionalidad";

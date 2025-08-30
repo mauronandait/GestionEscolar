@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace MiEscuela
 {
-    public class Materia
+    public abstract class Materia
     {
         #region Atributos
         string clave;
         string nombre;
         #endregion
         #region Metodos
+        public abstract decimal AsignarCalificacion();
         #endregion
     }
 }

@@ -17,17 +17,17 @@
         {
             Console.Title = "Gestión Escolar";
             Estudiante nuevoEstudiante = new Estudiante("Juan Perez", "3A");
-            nuevoEstudiante = null;
-            //Profesor nuevoProfesor = new Profesor();
-            //string resp = nuevoProfesor.RevisarHora();
+            //nuevoEstudiante = null;
+            Profesor<int> nuevoProfesorInterno = new Profesor<int>();
+            string resp = nuevoProfesorInterno.RevisarHora();
             //MostrarMensaje(resp);
-            /*
+           
             Console.WriteLine("Bienvenidos a la escuela, presione 0 para continuar");
             int x = Convert.ToInt32(Console.ReadLine());
             if (x == 0)
             {
                 ImprimirMensaje();
-            }*/
+            }
         }
     }
 }
